@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:rgb(from 254, 242, 178);
+}
+
+.header_text{
+    font-family: 'ArialRoundedMTBold' ;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(from 255, 27, 88);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
