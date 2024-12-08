@@ -3,17 +3,36 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:rgb(from 254, 242, 178);
+    background-color:rgb(254, 242, 178);
 }
 
 .header_text{
     font-family: 'ArialRoundedMTBold' ;
     font-size: 50px;
     font-weight: bold;
-    color: rgb(from 255, 27, 88);
+    color: rgb(255, 27, 88);
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0;
+}
+
+.bottom_text{
+    font-family: 'ArialRoundedMTBold' ;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 27, 88);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
 }
 
 .gif_container {
