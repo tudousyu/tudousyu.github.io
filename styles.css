@@ -75,6 +75,10 @@ body {
         font-size: 25px;
     }
 
+    .sub_header_text {
+        font-size: 10px;
+    }
+
     img {
         height: 60vh;
     }
@@ -92,6 +96,10 @@ body {
 
     .header_text {
         font-size: 20px;
+    }
+
+    .sub_header_text { 
+        font-size: 5px; 
     }
 
     img { 
