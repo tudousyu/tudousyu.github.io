@@ -27,6 +27,16 @@ body {
     margin-bottom: 0;
 }
 
+.sub_header_text {
+     font-family: 'ArialRoundedMTBold' ;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 27, 88);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
 .buttons {
     display: flex;
     flex-direction: row;
