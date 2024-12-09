@@ -1,23 +1,17 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html >
+<html lang="en"> 
+    <head>
+        <link rel="stylesheet" href="./free_style.css">
 
-<head>
-    <style>
-        body {
-            text-align: center;
-            display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color:rgb(176, 254, 1);
-}
-    </style>
-</head>
-
-<body>
-    <h2 style="color:rgb(0, 0, 0)">are you free on ...</h2>
-    <b>(select a date)</b>
-    <br>
+    </head>
+    <body>
+        <div class="container">
+            <div> 
+                <h2 style="color:rgb(0, 0, 0)">are you free on ...</h2>
+                <b>(select a date)</b>
+                <br>
+            </div> 
+            
     <h4>Which day:
         <input type="datetime-local" 
                id="Test_DatetimeLocal" 
@@ -27,11 +21,15 @@
     </h4>
 </div>
        <div class = "button">
-             <button class="btn" id="yesButton" onclick="nextPage()">Click me!</button>
+             <button class="btn" id="yesButton" onclick="nextPage()">SUBMIT</button>
              <script> 
                 function nextPage() {
-                    window.location.href="free.html"
-                }</body>
-                <div>
+                    window.location.href="food.html"
+                }
+            </script> 
+                </div>
+            </div>
 
+        </body>
 </html>
+       
