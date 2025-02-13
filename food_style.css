@@ -1,0 +1,84 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image:url(https://64.media.tumblr.com/0f65a6f837286e0ec3b2665daaf62b07/d3ecbf73ca06e8e7-39/s540x810/e74f13c40ddf0216cd577ea4e8e55640bc014750.pnj);
+}
+
+.img_src_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.img_src_2 {
+    background-color:rgb(255, 255, 255) ;
+    color:rgb(0, 255, 81);
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+
+.img_src_3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.img_src_4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.img_src_5{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.img_src_6{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.img_src_7{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.img_src_8{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 25px;
+}
